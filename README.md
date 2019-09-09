@@ -1,6 +1,6 @@
-# Sponsor-Page
+# Donate-Page
 
-这是一系列整理好的捐赠按钮样式。
+这是一系列整理好的捐赠按钮样式。转自<https://github.com/Kaiyuan/sponsor-page>
 
 ![opencollective](https://opencollective.com/kaiyuan/tiers/backer/badge.svg?label=backer&color=brightgreen)
 
